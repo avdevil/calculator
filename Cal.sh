@@ -1,5 +1,5 @@
 clear
-sum=0
+Sum=0
 i="y"
 
 echo " Enter one no."
